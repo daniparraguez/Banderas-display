@@ -1,0 +1,25 @@
+.box-one,.box-two,.box-three{
+	padding: 10px;
+	margin: 5px;
+}
+.box-one{
+	width: 200px;
+	height:100px;
+	background-color:#FFDF00 ; 
+	display: inline-block;
+}
+.box-two{
+	width: 200px;
+	height:100px;
+	background-color:#282828; 
+	color:white;
+	display: inline-block;
+}
+.box-three{
+	width: 200px;
+	height:100px;
+	background-color:#FFDF00;
+	display: inline-block;
+
+
+}

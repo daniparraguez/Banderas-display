@@ -1,0 +1,17 @@
+.box-one,.box-two,.box-three{
+	height: 90px;
+	margin-bottom: 10px;
+	padding: 10px;
+
+}
+.box-one{
+	background-color:#FFE400;
+	
+}
+.box-two{
+	background-color:#6C6C6C;
+	color:white;
+}
+.box-three{
+	background-color:#FFE400;
+}
